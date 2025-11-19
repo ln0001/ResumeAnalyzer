@@ -248,12 +248,6 @@ resume-analyzer/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Laxminarayan Saravade**
-- GitHub: https://github.com/ln0001/ResumeAnalyzer.git
-- Email: lnsaravade123@gmail.com
-
 ## 🙏 Acknowledgments
 
 - Spring Boot Team
