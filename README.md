@@ -45,7 +45,7 @@ check your ats score here : https://resume-analyzer-jade-zeta.vercel.app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-analyzer.git
+git clone https://github.com/ln0001/ResumeAnalyzer.git
 cd resume-analyzer
 ```
 
@@ -250,9 +250,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abhishek Dodwad**
-- GitHub: https://github.com/AbhishekDodwad/Resume_Analyzer
-- Email: abhishek@gmail.com
+**Laxminarayan Saravade**
+- GitHub: https://github.com/ln0001/ResumeAnalyzer.git
+- Email: lnsaravade123@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -260,13 +260,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB Atlas
 - Google Gemini AI
 - Apache Tika
-
-## 📞 Support
-
-For support, email dodwadabhishek@gmail.com or open an issue in the GitHub repository.
-
----
+  
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
-Made with ❤️ using Spring Boot and MongoDB
+Made with ❤️ using React, Spring Boot and MongoDB
